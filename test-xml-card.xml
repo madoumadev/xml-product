@@ -1,0 +1,68 @@
+<yml_catalog date="2023-07-07 08:20:41">
+	<shop>
+		<name>Добрынинский</name>
+		<url>https://dobrynka-online.ru/</url>
+		<offers>
+			<offer id="1" available="true">
+				<date>01.12.2023</date>
+				<name>Хумус "Натуральное хозяйство" 300гр</name>
+				<picture>https://dobrynka-online.ru/upload/iblock/37b/37bd9fa0d4933881db55e3fbebc64351.png</picture>
+				<picture-hover>https://dobrynka-online.ru/upload/iblock/899/899798bae479cc1d952d1c1658178d0a.png</picture-hover>
+				<adress>Москва, улица Электрозаводская д. 27, стр. 1</adress>
+				<condition>При покупке от 999р</condition>
+				<price>303</price>
+				<old-price>379</old-price>
+				<currency>RUB</currency>
+				<url>https://dobrynka-online.ru/catalog/kulinariya/salaty-i-zakuski/khumus-naturalnoe-khozyaystvo/</url>
+				<description>Хумус – это гениальное блюдо, которое соединяет в себе практически несоединимое – это вкусная и полезная закуска. Состав: Нут продовольственный, вода, паста кунжутная, масла растительные (масло подсолнечное, масло оливковое), соль поваренная пищевая, регулятор кислотности кислота лимонная, консервант сорбат калия. Калории: 360 Белки: 8,2 Жиры: 32,1 Углеводы: 9,7 Срок годности: 45 суток Рекомендуемая температура хранения: +2 - +6 °С</description>
+				<discount>20%</discount>
+				<unit>шт</unit>
+			</offer>
+			<offer id="2" available="true">
+				<date>01.12.2023</date>
+				<name>Спаржа маринованная по-корейски</name>
+				<picture>https://dobrynka-online.ru/upload/iblock/c7f/c7f27af9d4b5295cef0a98a248ade1e6.jpg</picture>
+				<picture-hover>https://dobrynka-online.ru/upload/iblock/52d/52d5afb25e77bd165373fec16a796157.jpg</picture-hover>
+				<adress>Москва, улица Электрозаводская д. 27, стр. 1</adress>
+				<condition>При покупке от 999р</condition>
+				<price>201</price>
+				<old-price>300</old-price>
+				<currency>RUB</currency>
+				<url>https://dobrynka-online.ru/catalog/kulinariya/salaty-i-zakuski/sparzha-marinovannaya-po-koreyski/</url>
+				<description>Спаржа по-корейски - традиционное блюдо восточноазиатской кухни. Отличается лёгким пикантным вкусом, благодаря оригинальному набору пряных специй. Состав: Спаржа, масло подсолнечное рафинированное, чеснок свежий, сахар, приправа аджи-но-мото, соль. Калории: 108 Белки: 6,8 Жиры: 8,2 Углеводы: 12,9 Срок годности: 120 часов Рекомендуемая температура хранения: +2 - +6 °С</description>
+				<discount>33%</discount>
+				<unit>шт</unit>
+			</offer>
+			<offer id="3" available="true">
+				<date>01.12.2023</date>
+				<name>Салат Буржуй 200г</name>
+				<picture>https://dobrynka-online.ru/upload/iblock/803/8031a15bcb05d47a8a84ff41a2894786.jpg</picture>
+				<picture-hover>https://dobrynka-online.ru/upload/iblock/95f/95f77bc053803a3a5166be38b4962608.jpg</picture-hover>
+				<adress>Москва, улица Электрозаводская д. 27, стр. 1</adress>
+				<condition>При покупке от 999р</condition>
+				<price>315</price>
+				<old-price>420</old-price>
+				<currency>RUB</currency>
+				<url>https://dobrynka-online.ru/catalog/kulinariya/salaty-i-zakuski/sparzha-marinovannaya-po-koreyski/</url>
+				<description>Салат из печёного куринного филе и свежими овощами, может быть отличным дополнением к вашеми обеду или ужину! Состав: Филе куриной грудки, панировка (мука пшеничная в/с, вода питьевая, яйцо куриное, сахар, масло подсолнечное, дрожжи, соль), масло сливочное, масло подсолнечное, соль, чеснок, укроп; картофель, молоко 3,2%, масло сливочное (сливки пастеризованные) , соль пищевая, сахар. Срок годности: 72 часа</description>
+				<discount>25%</discount>
+				<unit>шт</unit>
+			</offer>
+			<offer id="4" available="true">
+				<date>02.12.2023</date>
+				<name>Салат Греческий 200г</name>
+				<picture>https://dobrynka-online.ru/upload/iblock/856/85689b74fecebbdfbc747b8480d1c3c5.jpg</picture>
+				<picture-hover>https://dobrynka-online.ru/upload/iblock/40f/40f16eb027212fa4462f0a1668a0f5a4.jpg</picture-hover>
+				<adress>Москва, улица Электрозаводская д. 27, стр. 1</adress>
+				<condition>При покупке от 999р</condition>
+				<price>315</price>
+				<old-price>420</old-price>
+				<currency>RUB</currency>
+				<url>https://dobrynka-online.ru/catalog/kulinariya/salaty-i-zakuski/salat-grecheskiy/</url>
+				<description>лассический, свежий, хрустящий!!! Срок годности: 72 часа</description>
+				<discount>25%</discount>
+				<unit>шт</unit>
+			</offer>
+		</offers>
+	</shop>    
+</yml_catalog>
